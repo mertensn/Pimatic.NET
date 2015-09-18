@@ -1,5 +1,7 @@
 # Pimatic.NET
 
+Use the Factories in Pimatic.NET.ServiceClient to connect to various Pimatic components.
+
 Simple implementation example:
 
     /// <summary>
