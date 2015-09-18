@@ -1,0 +1,4 @@
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.Contracts\bin\Release\Pimatic.NET.Contracts.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.Contracts\bin\Release\Pimatic.NET.Contracts.pdb
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.Contracts\obj\Release\Pimatic.NET.Contracts.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.Contracts\obj\Release\Pimatic.NET.Contracts.pdb

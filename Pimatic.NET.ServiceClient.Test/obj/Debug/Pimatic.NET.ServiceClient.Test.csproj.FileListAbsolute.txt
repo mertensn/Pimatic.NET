@@ -1,0 +1,14 @@
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\Pimatic.NET.ServiceClient.Test.dll.config
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\Pimatic.NET.ServiceClient.Test.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\Pimatic.NET.ServiceClient.Test.pdb
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\nunit.framework.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\Pimatic.NET.Contracts.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\Pimatic.NET.ServiceClient.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\Pimatic.NET.Contracts.pdb
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\Pimatic.NET.ServiceClient.pdb
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\nunit.framework.xml
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\obj\Debug\Pimatic.NET.ServiceClient.Test.csprojResolveAssemblyReference.cache
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\obj\Debug\Pimatic.NET.ServiceClient.Test.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient.Test\obj\Debug\Pimatic.NET.ServiceClient.Test.pdb

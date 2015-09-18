@@ -1,0 +1,5 @@
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.Contracts\bin\Debug\Pimatic.NET.Contracts.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.Contracts\bin\Debug\Pimatic.NET.Contracts.pdb
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.Contracts\obj\Debug\Pimatic.NET.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.Contracts\obj\Debug\Pimatic.NET.Contracts.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.Contracts\obj\Debug\Pimatic.NET.Contracts.pdb

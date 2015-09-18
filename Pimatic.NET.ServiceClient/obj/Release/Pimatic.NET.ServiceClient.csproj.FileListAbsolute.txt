@@ -1,0 +1,12 @@
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\bin\Release\Pimatic.NET.ServiceClient.dll.config
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\bin\Release\Pimatic.NET.ServiceClient.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\bin\Release\Pimatic.NET.ServiceClient.pdb
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\bin\Release\Pimatic.NET.Contracts.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\bin\Release\Pimatic.NET.Contracts.pdb
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\obj\Release\Pimatic.NET.ServiceClient.csprojResolveAssemblyReference.cache
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\obj\Release\Pimatic.NET.ServiceClient.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\obj\Release\Pimatic.NET.ServiceClient.pdb
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\bin\Release\Framework.DataClient.Portable.dll
+C:\Users\nicolasm\Source\Workspaces\Pimatic.NET\Pimatic.NET.ServiceClient\bin\Release\Framework.DataClient.Portable.pdb

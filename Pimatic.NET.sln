@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pimatic.NET.ServiceClient", "Pimatic.NET.ServiceClient\Pimatic.NET.ServiceClient.csproj", "{B9E3D653-32D5-4F7E-9F4C-9FAB650E001C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pimatic.NET.Contracts", "Pimatic.NET.Contracts\Pimatic.NET.Contracts.csproj", "{91D4ED68-ECEE-4D18-936D-4913709C4797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pimatic.NET.ServiceClient.Test", "Pimatic.NET.ServiceClient.Test\Pimatic.NET.ServiceClient.Test.csproj", "{726DD005-7C0F-4607-A1B5-867FCD0BF02C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{59849C2F-714C-437B-AECB-91A7398B1B95}"
+	ProjectSection(SolutionItems) = preProject
+		Error Codes.txt = Error Codes.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{B5A80FD9-D1CC-4E45-890C-72785F68CC11}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mertensn.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = Pimatic.NET.Contracts\\Pimatic.NET.Contracts.csproj
+		SccProjectName0 = Pimatic.NET.Contracts
+		SccAuxPath0 = https://mertensn.visualstudio.com/defaultcollection
+		SccLocalPath0 = Pimatic.NET.Contracts
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = Pimatic.NET.ServiceClient\\Pimatic.NET.ServiceClient.csproj
+		SccProjectName1 = Pimatic.NET.ServiceClient
+		SccAuxPath1 = https://mertensn.visualstudio.com/defaultcollection
+		SccLocalPath1 = Pimatic.NET.ServiceClient
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E3D653-32D5-4F7E-9F4C-9FAB650E001C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E3D653-32D5-4F7E-9F4C-9FAB650E001C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E3D653-32D5-4F7E-9F4C-9FAB650E001C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E3D653-32D5-4F7E-9F4C-9FAB650E001C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D4ED68-ECEE-4D18-936D-4913709C4797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D4ED68-ECEE-4D18-936D-4913709C4797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D4ED68-ECEE-4D18-936D-4913709C4797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D4ED68-ECEE-4D18-936D-4913709C4797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{726DD005-7C0F-4607-A1B5-867FCD0BF02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{726DD005-7C0F-4607-A1B5-867FCD0BF02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{726DD005-7C0F-4607-A1B5-867FCD0BF02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{726DD005-7C0F-4607-A1B5-867FCD0BF02C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+-------------------- Pimatic.NET.ServiceClient --------------------
+E_PIM_SVC.001: Device with id <deviceToAdd.deviceConfig.id> already exists in config file
+E_PIM_SVC.002: Could not find application setting with key <key>
+E_PIM_SVC.003: No devices found
+E_PIM_SVC.004: Page for pageId <<pageId>> could not be captured
+E_PIM_SVC.005: Device could not be found for deviceId <<deviceId>>

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{91D4ED68-ECEE-4D18-936D-4913709C4797}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pimatic.NET.Contracts</RootNamespace>
+    <AssemblyName>Pimatic.NET.Contracts</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataTypes\Exceptions\PimaticException.cs" />
+    <Compile Include="DataTypes\Messages\AddDeviceToPageMessage.cs" />
+    <Compile Include="DataTypes\Messages\GetDeviceClassConfigSchemaMessage.cs" />
+    <Compile Include="DataTypes\Messages\GetDeviceClassesMessage.cs" />
+    <Compile Include="DataTypes\Messages\GetDeviceByIdMessage.cs" />
+    <Compile Include="DataTypes\Messages\GetDevicesMessage.cs" />
+    <Compile Include="DataTypes\Messages\GetGuiSettingsMessage.cs" />
+    <Compile Include="DataTypes\Messages\GetPageByIdMessage.cs" />
+    <Compile Include="DataTypes\Messages\GetPagesMessage.cs" />
+    <Compile Include="DataTypes\Messages\GetVariablesMessage.cs" />
+    <Compile Include="DataTypes\Messages\RemoveDeviceFromPageMessage.cs" />
+    <Compile Include="DataTypes\Messages\TurnOffDeviceMessage.cs" />
+    <Compile Include="DataTypes\Messages\TurnOnDeviceMessage.cs" />
+    <Compile Include="DataTypes\Pimatic\Action.cs" />
+    <Compile Include="DataTypes\Pimatic\Attribute.cs" />
+    <Compile Include="DataTypes\Pimatic\Attribute2.cs" />
+    <Compile Include="DataTypes\Pimatic\Authentication.cs" />
+    <Compile Include="DataTypes\Pimatic\Class.cs" />
+    <Compile Include="DataTypes\Pimatic\Config.cs" />
+    <Compile Include="DataTypes\Pimatic\ConfigDefaults.cs" />
+    <Compile Include="DataTypes\Pimatic\ConfigSchema.cs" />
+    <Compile Include="DataTypes\Pimatic\Database.cs" />
+    <Compile Include="DataTypes\Pimatic\Defaults.cs" />
+    <Compile Include="DataTypes\Pimatic\Device.cs" />
+    <Compile Include="DataTypes\Messages\GetConfigMessage.cs" />
+    <Compile Include="DataTypes\Pimatic\Device2.cs" />
+    <Compile Include="DataTypes\Pimatic\DeviceAttributeLogging.cs" />
+    <Compile Include="DataTypes\Pimatic\DriverOptions.cs" />
+    <Compile Include="DataTypes\Pimatic\Gpio.cs" />
+    <Compile Include="DataTypes\Pimatic\Group.cs" />
+    <Compile Include="DataTypes\Pimatic\Gui.cs" />
+    <Compile Include="DataTypes\Pimatic\GuiSettings.cs" />
+    <Compile Include="DataTypes\Pimatic\History.cs" />
+    <Compile Include="DataTypes\Pimatic\HttpServer.cs" />
+    <Compile Include="DataTypes\Pimatic\HttpsServer.cs" />
+    <Compile Include="DataTypes\Pimatic\Id.cs" />
+    <Compile Include="DataTypes\Pimatic\Inverted.cs" />
+    <Compile Include="DataTypes\Pimatic\MessageLogging.cs" />
+    <Compile Include="DataTypes\Pimatic\Name.cs" />
+    <Compile Include="DataTypes\Pimatic\Options.cs" />
+    <Compile Include="DataTypes\Pimatic\Page.cs" />
+    <Compile Include="DataTypes\Pimatic\Params.cs" />
+    <Compile Include="DataTypes\Pimatic\Permissions.cs" />
+    <Compile Include="DataTypes\Pimatic\Plugin.cs" />
+    <Compile Include="DataTypes\Pimatic\Properties.cs" />
+    <Compile Include="DataTypes\Pimatic\Protocol.cs" />
+    <Compile Include="DataTypes\Pimatic\Returns.cs" />
+    <Compile Include="DataTypes\Messages\AddDeviceByConfigMessage.cs" />
+    <Compile Include="DataTypes\Pimatic\Role.cs" />
+    <Compile Include="DataTypes\Pimatic\Rule.cs" />
+    <Compile Include="DataTypes\Pimatic\Settings.cs" />
+    <Compile Include="DataTypes\Pimatic\State.cs" />
+    <Compile Include="DataTypes\Pimatic\State2.cs" />
+    <Compile Include="DataTypes\Pimatic\User.cs" />
+    <Compile Include="DataTypes\Pimatic\Variable.cs" />
+    <Compile Include="DataTypes\Pimatic\XAbsentLabel.cs" />
+    <Compile Include="DataTypes\Pimatic\XLink.cs" />
+    <Compile Include="DataTypes\Pimatic\XPresentLabel.cs" />
+    <Compile Include="Interfaces\IPimaticCoreFactory.cs" />
+    <Compile Include="Interfaces\IPimaticDeviceFactory.cs" />
+    <Compile Include="Interfaces\IPimaticPageFactory.cs" />
+    <Compile Include="Interfaces\IPimaticVariableFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
